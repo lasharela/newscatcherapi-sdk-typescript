@@ -1,6 +1,6 @@
-export const sum = (a: number, b: number) => {
-  if ('development' === process.env.NODE_ENV) {
-    console.log('boop');
-  }
-  return a + b;
-};
+export * from './latestHeadlines/latestHeadlines'
+export * from './latestHeadlines/latestHeadlines.type'
+export * from './searchNews/searchNews'
+export * from './searchNews/searchNews.type'
+export * from './sources/sources'
+export * from './sources/sources.type'
