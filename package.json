@@ -1,6 +1,6 @@
 {
   "name": "newscatcher",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "TypeScript SDK for https://newscatcherapi.com/",
   "main": "dist/index.js",
   "module": "dist/index.modern.module.js",
