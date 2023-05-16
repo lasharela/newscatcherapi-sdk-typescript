@@ -1,5 +1,8 @@
-# NewsCatcher News API V2 SDK for Python
+# NewsCatcher News API V2 SDK for TypeScript
 
+documentation is in progress
+
+<!--
 The official Python client library to manipulate [NewsCatcher News API V2](https://newscatcherapi.com/news-api) from your Python application.
 
 Documentation is identical with the API documentation. The same parameters and filters are available.
@@ -165,4 +168,4 @@ To bootstrap this npm package we used [TSDX](https://github.com/jaredpalmer/tsdx
 
 ## Feedback
 
-Feel free to contact us if you have spot a bug or have any suggestion at maksym`[at]`newscatcherapi.com
+Feel free to contact us if you have spot a bug or have any suggestion at maksym`[at]`newscatcherapi.com -->
